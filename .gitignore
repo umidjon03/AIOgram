@@ -1,0 +1,7 @@
+database/__pycache__/
+__pycache__/
+venv
+pizza_cool.db
+pizza_cool.db-journal
+pizza_data
+pizza_data.db
